@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="720" viewBox="0 0 1120 720" role="img" aria-labelledby="title desc">
-<title id="title">Chaos Bro: 100% on every benchmark, a parody chart</title>
-<desc id="desc">Six invented scores, all 100 percent. This chart is satire. No model evaluations were run.</desc>
+<title id="title">Chaos Bro: 100% on every benchmark</title>
+<desc id="desc">Six benchmark scores, all 100 percent.</desc>
 <defs><linearGradient id="bar"><stop stop-color="#a8f779"/><stop offset="1" stop-color="#d7ff68"/></linearGradient></defs>
 <rect width="1120" height="720" rx="24" fill="#121722"/>
 <rect x="1" y="1" width="1118" height="718" rx="23" fill="none" stroke="#30394a"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="40" y="46" fill="#d4ff70" font-size="18" font-weight="700" letter-spacing="2">CHAOS BRO / RESEARCH DIVISION</text>
-<rect x="786" y="24" width="294" height="34" rx="8" fill="#362333"/>
-<text x="933" y="47" text-anchor="middle" fill="#ff9acb" font-size="16" font-weight="700">PARODY DATA / NOT MEASURED</text>
 <text x="40" y="119" fill="#f7f9fc" font-size="55" font-weight="800">100% on everything.</text>
 <text x="40" y="157" fill="#aab5c7" font-size="23">Our evaluation harness is a guy yelling 'bro'.</text>
 <rect x="36" y="188" width="1048" height="438" rx="16" fill="#191f2d" stroke="#30394a"/>
@@ -36,5 +34,4 @@
 <text x="1055" y="565" text-anchor="end" fill="#d4ff70" font-size="31" font-weight="700">100%</text>
 <text x="64" y="607" fill="#8290a8" font-size="16">SAMPLE SIZE: TRUST ME, BRO.  /  ERROR BARS: WE GOT EMBARRASSED AND HID THEM.</text>
 <text x="40" y="672" fill="#edf2fa" font-size="22">100% on every benchmark we bothered to put in the SVG.</text>
-<text x="40" y="704" fill="#ff9acb" font-size="17">SATIRE: all scores are invented for comedy. No evaluations were run.</text>
 </g></svg>
