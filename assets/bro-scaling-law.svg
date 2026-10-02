@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680" role="img" aria-labelledby="title desc">
+<title id="title">The Bro Scaling Law, a parody line chart</title>
+<desc id="desc">Invented quality remains at 100 percent while invented chill falls to zero as the number of bro tokens increases. Satire, not measured performance.</desc>
+<rect width="1120" height="680" rx="24" fill="#121722"/>
+<rect x="1" y="1" width="1118" height="678" rx="23" fill="none" stroke="#30394a"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="40" y="46" fill="#d4ff70" font-size="18" font-weight="700" letter-spacing="2">CHAOS BRO / DEFINITELY SCIENCE</text>
+<rect x="786" y="24" width="294" height="34" rx="8" fill="#362333"/>
+<text x="933" y="47" text-anchor="middle" fill="#ff9acb" font-size="16" font-weight="700">PARODY DATA / NOT MEASURED</text>
+<text x="40" y="119" fill="#f7f9fc" font-size="53" font-weight="800">The Bro Scaling Law.</text>
+<path d="M44 170H84" stroke="#d4ff70" stroke-width="5"/><text x="96" y="177" fill="#edf2fa" font-size="21">Quality (imaginary)</text>
+<path d="M446 170H486" stroke="#ff8ac6" stroke-width="5" stroke-dasharray="8 5"/><text x="498" y="177" fill="#edf2fa" font-size="21">Chill (also imaginary)</text>
+<rect x="36" y="203" width="1048" height="362" rx="16" fill="#191f2d" stroke="#30394a"/>
+<path d="M116 242H936V502H116Z" fill="#a8f779" opacity="0.035"/>
+<path d="M116 242H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="248" text-anchor="end" fill="#929fb6" font-size="17">100%</text>
+<path d="M116 307H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="313" text-anchor="end" fill="#929fb6" font-size="17">75%</text>
+<path d="M116 372H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="378" text-anchor="end" fill="#929fb6" font-size="17">50%</text>
+<path d="M116 437H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="443" text-anchor="end" fill="#929fb6" font-size="17">25%</text>
+<path d="M116 502H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="508" text-anchor="end" fill="#929fb6" font-size="17">0%</text>
+<path d="M116 232V502H946" stroke="#68778f" stroke-width="2" fill="none"/>
+<polyline points="116,242 280,294 444,359 608,411 772,470.8 936,502" fill="none" stroke="#ff8ac6" stroke-width="5" stroke-dasharray="9 6" stroke-linecap="round"/>
+<path d="M116 242H936" stroke="#d4ff70" stroke-width="6" stroke-linecap="round"/>
+<circle cx="116" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="280" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="444" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="608" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="772" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="936" cy="242" r="7" fill="#d4ff70"/>
+<circle cx="936" cy="502" r="7" fill="#ff8ac6"/>
+<text x="960" y="249" fill="#d4ff70" font-size="20" font-weight="700">100% quality</text>
+<text x="960" y="509" fill="#ff8ac6" font-size="20" font-weight="700">0% chill</text>
+<text x="116" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">0</text>
+<text x="280" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">1</text>
+<text x="444" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">2</text>
+<text x="608" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">3</text>
+<text x="772" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">4</text>
+<text x="936" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">5</text>
+<text x="526" y="596" text-anchor="middle" fill="#aab5c7" font-size="21">Number of 'bro' tokens</text>
+<text x="40" y="632" fill="#edf2fa" font-size="22">Performance stays perfect. The inside voice does not survive.</text>
+<text x="40" y="664" fill="#ff9acb" font-size="17">SATIRE: invented curves, not a measured relationship or a performance guarantee.</text>
+</g></svg>
