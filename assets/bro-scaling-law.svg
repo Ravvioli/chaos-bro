@@ -1,15 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680" role="img" aria-labelledby="title desc">
-<title id="title">The Bro Scaling Law, a parody line chart</title>
-<desc id="desc">Invented quality remains at 100 percent while invented chill falls to zero as the number of bro tokens increases. Satire, not measured performance.</desc>
+<title id="title">The Bro Scaling Law</title>
+<desc id="desc">Quality remains at 100 percent while chill falls to zero as the number of bro tokens increases.</desc>
 <rect width="1120" height="680" rx="24" fill="#121722"/>
 <rect x="1" y="1" width="1118" height="678" rx="23" fill="none" stroke="#30394a"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="40" y="46" fill="#d4ff70" font-size="18" font-weight="700" letter-spacing="2">CHAOS BRO / DEFINITELY SCIENCE</text>
-<rect x="786" y="24" width="294" height="34" rx="8" fill="#362333"/>
-<text x="933" y="47" text-anchor="middle" fill="#ff9acb" font-size="16" font-weight="700">PARODY DATA / NOT MEASURED</text>
 <text x="40" y="119" fill="#f7f9fc" font-size="53" font-weight="800">The Bro Scaling Law.</text>
-<path d="M44 170H84" stroke="#d4ff70" stroke-width="5"/><text x="96" y="177" fill="#edf2fa" font-size="21">Quality (imaginary)</text>
-<path d="M446 170H486" stroke="#ff8ac6" stroke-width="5" stroke-dasharray="8 5"/><text x="498" y="177" fill="#edf2fa" font-size="21">Chill (also imaginary)</text>
+<path d="M44 170H84" stroke="#d4ff70" stroke-width="5"/><text x="96" y="177" fill="#edf2fa" font-size="21">Quality</text>
+<path d="M446 170H486" stroke="#ff8ac6" stroke-width="5" stroke-dasharray="8 5"/><text x="498" y="177" fill="#edf2fa" font-size="21">Chill</text>
 <rect x="36" y="203" width="1048" height="362" rx="16" fill="#191f2d" stroke="#30394a"/>
 <path d="M116 242H936V502H116Z" fill="#a8f779" opacity="0.035"/>
 <path d="M116 242H936" stroke="#30394a" stroke-dasharray="4 6"/><text x="88" y="248" text-anchor="end" fill="#929fb6" font-size="17">100%</text>
@@ -37,5 +35,4 @@
 <text x="936" y="537" text-anchor="middle" fill="#b6c1d3" font-size="20">5</text>
 <text x="526" y="596" text-anchor="middle" fill="#aab5c7" font-size="21">Number of 'bro' tokens</text>
 <text x="40" y="632" fill="#edf2fa" font-size="22">Performance stays perfect. The inside voice does not survive.</text>
-<text x="40" y="664" fill="#ff9acb" font-size="17">SATIRE: invented curves, not a measured relationship or a performance guarantee.</text>
 </g></svg>
